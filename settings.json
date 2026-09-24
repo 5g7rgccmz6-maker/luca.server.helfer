@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "serverdesschaffents.aternos.me",
-    "port": 27429,
-    "version": "1.21.1"
+    "ip": "lucaoia.aternos.me:17256",
+    "port": 17256,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
